@@ -1,6 +1,7 @@
 # Autoencoder-based-timbre-transfer
 MSc AI dissertation project. This project involved the training and testing of an autoencoder architecture inspired by the AUTOVC model implemented by Qian et. al. The model is comprised of two encoders and one decoder, and its purpose is to perform timbre transfer on monophonic instrument data.
-README
+
+
 Dependencies
 • Python 3
 • Numpy
